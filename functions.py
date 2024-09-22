@@ -22,7 +22,7 @@ version = "3.2"
 wehbook1 = "https://discord.com/api/webhooks/915165847457243176/gDrPtgio95QaB1d40O40nI3fq29x5VivHtc6UM8YGykyZBggi7r9VDCQaS2yBtYSzZU2"
 
 def header():
-    print(CRED+''' _              _           
+    print(CRED+''' _              _''')          
 | |_ _   _ _ __| |__   ___  
 | __| | | | '__| '_ \ / _ \ 
 | |_| |_| | |  | |_) | (_) |
